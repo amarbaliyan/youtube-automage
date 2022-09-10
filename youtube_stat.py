@@ -16,6 +16,7 @@ class YtStat:
         tim = data["items"][0]
         bim = tim["statistics"]
         cim = bim['viewCount']
+        return cim;
 
 
 
