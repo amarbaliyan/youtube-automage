@@ -1,2 +1,2 @@
 # youtube-automage
-edit title and thumbnail of youtube video and print total view of video
+edit title and thumbnail of youtube video and print view count of video
